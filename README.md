@@ -14,3 +14,5 @@ This repo is created to explain the idea of following the Git Workflow with Reba
 This branch contains work which is not there in the master branch and this branch is not based on the latest version of the master branch. Therefore you have to rebase this branch before pushing its changes to the master.
 
 das ist nicht in main (feture_rebase1)
+
+now the main is new (main)
