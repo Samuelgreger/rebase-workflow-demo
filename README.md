@@ -11,17 +11,4 @@ This repo is created to explain the idea of following the Git Workflow with Reba
 5. Push your branch to the origin
 6. Send a PR to dev branch to merge your local branch to dev branch
 
-TEST
-
-This branch contains work which is not there in the master branch and this branch is not based on the latest version of the master branch. Therefore you have to rebase this branch before pushing its changes to the master.
-
-### Following steps will be explained under this tutorial
-
-1. Fork and clone the desired repo
-2. Set upstream
-3. Create a branch from the dev branch of the upstream
-4. Rebase your branch with the dev branch (Sync your fork)
-5. Push your branch to the origin
-6. Send a PR to dev branch to merge your local branch to dev branch
-
 This branch contains work which is not there in the master branch and this branch is not based on the latest version of the master branch. Therefore you have to rebase this branch before pushing its changes to the master.
